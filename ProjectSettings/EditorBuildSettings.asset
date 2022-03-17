@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 24f30e6474ceb2140ba099871c6f7f8b
+  - enabled: 1
+    path: Assets/Scenes/Level.unity
+    guid: 0444587cc6d6df04daf67f4f0beb2ab2
+  - enabled: 0
+    path: 
+    guid: 8d4b4564141a17a44a79b5f1956ba700
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/CaffeRoom.unity
+    guid: c57643e15457c4a438f86820f19efc25
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: 1e0d749c3a8af9b43ba4d5477a223863
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: c8a5d42b1a75599479a7ad6463c39014
+  m_configObjects: {}
