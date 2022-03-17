@@ -1,5 +1,7 @@
 # ChineseVillage
 
+First experience with Unity. Inspired by the movie "Kill Bill"
+
 ![image](https://user-images.githubusercontent.com/100485088/158843091-52405ae6-5357-4b2e-bfe1-7432f3a0b9f2.png)
 
 
