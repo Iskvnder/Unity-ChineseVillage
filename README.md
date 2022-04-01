@@ -9,4 +9,4 @@ Press "F" to turn on Fight Mode
 
 [<img align="left" alt="Youtube" width="30px" src="https://cdn-icons-png.flaticon.com/512/152/152810.png" />][youtube] https://www.youtube.com/watch?v=x-UdOSBV-nM&ab_channel=Iskvnder Youtube video 
 
-[youtube]: https://www.youtube.com/watch?v=sVPvCQDhp2A&ab_channel=Iskvnder
+[youtube]: https://youtu.be/x-UdOSBV-nM
